@@ -1,0 +1,16 @@
+[
+    {
+        "id": 1,
+        "title": "Dark Side of the Moon",
+        "artiste": "Pink Floyd",
+        "url": "link1",
+        "thumbnail_image": "link1 image"
+    },
+    {
+        "id": 2,
+        "title": "Sqt. Pepper",
+        "artiste": "The Beatles",
+        "url": "link2",
+        "thumbnail_image": "link2 image"
+    }
+]

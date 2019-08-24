@@ -1,0 +1,14 @@
+{
+  "name": "json-server",
+  "version": "1.0.0",
+  "description": "A simple rest api endpoint that uses json data",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index"
+  },
+  "author": "Claret Nnamocha",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
