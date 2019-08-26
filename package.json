@@ -6,8 +6,12 @@
   "scripts": {
     "start": "node index"
   },
-  "author": "Claret Nnamocha",
+  "author": {
+    "name": "Claret Nnamocha",
+    "email": "devclareo@gmail.com"
+  },
   "license": "ISC",
+  "homepage": "https://github.com/claretnnamocha/simple-json-server",
   "dependencies": {
     "express": "^4.17.1"
   }
