@@ -1,16 +1,501 @@
 [
     {
         "id": 1,
-        "title": "Dark Side of the Moon",
-        "artiste": "Pink Floyd",
-        "url": "link1",
-        "thumbnail_image": "link1 image"
+        "title": "Their Greatest Hits (1971–1975)",
+        "artiste": "Eagles",
+        "background": "Their Greatest Hits (1971–1975) comprises nine singles released between 1972 and 1975, plus the album track 'Desperado'. All of these singles except 'Tequila Sunrise' charted in the top 40, with five in the top ten, and 'One of These Nights' and 'Best of My Love' both topping the singles chart. Read more: https://en.wikipedia.org/wiki/Their_Greatest_Hits_(1971%E2%80%931975)",
+        "url": "https://www.amazon.com/Eagles-Their-Greatest-Hits-1971/dp/B00A3J7E5C/ref=as_li_ss_tl?ie=UTF8&qid=1474642827&sr=8-1&keywords=Eagles+%E2%80%94+%22Their+Greatest+Hits+(1971-1975)%22&linkCode=ll1&tag=biip_092316_best-selling-albums-all-time-20&linkId=6dc639b81e1ab570d78a2bc401b3b8c7.",
+        "Image": "https://en.wikipedia.org/wiki/Their_Greatest_Hits_(1971%E2%80%931975)#/media/File:Eagles_-_Their_Greatest_Hits_(1971-1975).jpg",
+        "thumbnail_image": "https://en.wikipedia.org/wiki/Their_Greatest_Hits_(1971%E2%80%931975)#/media/File:Eagles_-_Their_Greatest_Hits_(1971-1975).jpg"
     },
+
     {
         "id": 2,
-        "title": "Sqt. Pepper",
+        "title": "Thriller",
+        "artiste": "Michael Jackson",
+        "background": "Thriller is the sixth studio album by American singer Michael Jackson, released on November 30, 1982, in the United States by Epic Records and internationally by CBS Records.[1][2] It explores genres similar to Jackson's previous album, Off the Wall (1979), including pop, post-disco, rock and funk. Read more: https://en.wikipedia.org/wiki/Thriller_(Michael_Jackson_album)",
+        "url": "https://www.amazon.com/Thriller-Michael-Jackson/dp/B0013D6LEM/ref=as_li_ss_tl?ie=UTF8&qid=1474642843&sr=8-2&keywords=Michael+Jackson+%E2%80%94+%22Thriller%22&linkCode=ll1&tag=biip_092316_best-selling-albums-all-time-20&linkId=d861dcf86eddf37e2056f51b7ab73dbd",
+        "image": "https://m.media-amazon.com/images/I/81JoImtwFhL._SS500_.jpg",
+        "thumbnail_image": "https://m.media-amazon.com/images/I/81JoImtwFhL._SS500_.jpg"
+    },
+
+    {
+        "id": 3,
+        "title": "Hotel California",
+        "artiste": "Eagles",
+        "background": " Hotel California is the fifth studio album by American rock band the Eagles, and is one of the best-selling albums of all time. Three singles were released from the album, each reaching high in the Billboard Hot 100: 'New Kid in Town' (number 1), 'Hotel California' (number 1), and 'Life in the Fast Lane' (number 11). Read more: https://en.wikipedia.org/wiki/Hotel_California_(Eagles_album)",
+        "url": "https://www.amazon.com/Hotel-California-EAGLES/dp/B00DAKW7Q2/ref=as_li_ss_tl?ie=UTF8&qid=1474642487&sr=8-3&keywords=Eagles+%E2%80%94+%22Hotel+California%22&linkCode=ll1&tag=biip_092316_best-selling-albums-all-time-20&linkId=9f616543044832b7980d218d7b1d3cba",
+        "image": "https://m.media-amazon.com/images/I/91eh6ApLnzL._SS500_.jpg",
+        "thumbnail_image": "https://m.media-amazon.com/images/I/91eh6ApLnzL._SS500_.jpg"
+    },
+
+    {
+        "id": 4,
+        "title": "Greatest Hits Volume 1 & Volume 2",
+        "artiste": "Billy Joel",
+        "background": " William Martin 'Billy' Joel (born May 9, 1949 in the Bronx , New York , United States ) is an American singer, pianist , and songwriter . Joel's music reaches from romantic ballads to rock and is influenced by jazz, pop and soul. Between 1974 and 1993, Joel achieved three number one singles status and 13 top-10 rankings in the United States. Read more: https://fi.wikipedia.org/wiki/Billy_Joel",
+        "url": "https://www.amazon.com/Billy-Joel-Greatest-Hits-Vol/dp/B00000DCHI/ref=as_li_ss_tl?ie=UTF8&qid=1474642812&sr=8-1-fkmr0&keywords=Billy+Joel+%E2%80%94+%22Greatest+Hits+Volume+1+&+Volume+2%22&linkCode=ll1&tag=biip_092316_best-selling-albums-all-time-20&linkId=68f2b366efc54cf62c8f479d94468b71",
+        "image": "https://images-na.ssl-images-amazon.com/images/I/81cNdv28gSL._SX425_.jpg",
+        "thumbnail_image": "https://images-na.ssl-images-amazon.com/images/I/81cNdv28gSL._SX425_.jpg"
+    },
+
+    {
+        "id": 5,
+        "title": "Led Zeppelin IV",
+        "artiste": "Led Zeppelin",
+        "background": "The unnamed fourth studio album of the British rock band Led Zeppelin was released on November 8, 1971. Since the album has no official name, it is often called Led Zeppelin IV.Following the negative reviews received by Led Zeppelin III on the previous album , the band's guitarist and lead character Jimmy Page decided that the cover of the next album would not contain any band name or any other lyrics. Read more: https://fi.wikipedia.org/wiki/Led_Zeppelin_IV",
+        "url": "https://www.amazon.com/Led-Zeppelin-Remastered-Original-Vinyl/dp/B00OEEM542/ref=as_li_ss_tl?ie=UTF8&qid=1474642757&sr=8-1&keywords=Led+Zeppelin+%E2%80%94+%22Led+Zeppelin+IV%22&linkCode=ll1&tag=biip_092316_best-selling-albums-all-time-20&linkId=1a3a235088371fe43101036c8bed599a",
+        "image": "https://m.media-amazon.com/images/I/81x364UAGAL._SS500_.jpg",
+        "thumbnail_image": "https://m.media-amazon.com/images/I/81x364UAGAL._SS500_.jpg"
+    },
+
+    {
+        "Id": 6,
+        "Title": "The Wall",
+        "Artiste": " Pink Floyd",
+        "background": "Pink Floyd – The Wall is a 1982 British live-action/animated musical drama film directed by Alan Parker with animated segments by political cartoonist Gerald Scarfe, and is based on the 1979 Pink Floyd album of the same name. The film centres around a solitary rocker named Pink, who, after being driven into insanity by the death of his father and many depressive moments during his lifetime, constructs a metaphorical (and sometimes physical) wall to be protected from the world and emotional situations around him. Read more: https://en.wikipedia.org/wiki/Pink_Floyd_%E2%80%93_The_Wall",
+        "url": "https://www.amazon.com/Wall-Pink-Floyd/dp/B019HKKVDE/ref=as_li_ss_tl?ie=UTF8&qid=1474642719&sr=8-2&keywords=Pink+Floyd+%E2%80%94+%22The+Wall%22&linkCode=ll1&tag=biip_092316_best-selling-albums-all-time-20&linkId=be8d08bd7a3cdb8228a80a3945011dfe",
+        "image": "https://m.media-amazon.com/images/I/711OIR+4poL._SS500_.jpg",
+        "thumbnail_image": "https://m.media-amazon.com/images/I/711OIR+4poL._SS500_.jpg"
+    },
+
+    {
+        "Id": 7,
+        "title": "Back in Black",
+        "artiste": "AC/DC",
+        "background": "Back in Black is the seventh studio album by Australian rock band AC/DC. It was released on 25 July 1980 by Albert Productions and Atlantic Records. It is the band's first album to feature vocalist Brian Johnson, following the death of previous vocalist Bon Scott. Read more: https://en.wikipedia.org/wiki/Back_in_Black",
+        "url": "https://www.amazon.com/Back-Black-AC-DC/dp/B00O6K888G/ref=as_li_ss_tl?ie=UTF8&qid=1474642706&sr=8-1&keywords=AC/DC+%E2%80%94+%22Back+In+Black%22&linkCode=ll1&tag=biip_092316_best-selling-albums-all-time-20&linkId=e44cfbbe6586ba88f308ba8ffcbba9a8",
+        "image": "https://m.media-amazon.com/images/I/512AO+rPOlL._SS500_.jpg",
+        "thumbnail_image": "https://m.media-amazon.com/images/I/512AO+rPOlL._SS500_.jpg"
+    },
+
+    {
+        "id": 8,
+        "title": "Double Live",
+        "artiste": "Garth Brooks",
+        "background": "Double Live is the first live album by American country music singer Garth Brooks. It was released on November 17, 1998 and is a two-disc compilation of live songs, recorded during Brooks' 1996–98 world tour. Read more: https://en.wikipedia.org/wiki/Double_Live_(Garth_Brooks_album)",
+        "url": "https://www.amazon.com/Double-Live-Garth-Brooks/dp/B00000DMJG/ref=as_li_ss_tl?ie=UTF8&qid=1474642689&sr=8-1&keywords=Garth+Brooks+%E2%80%94+%22Double+Live%22&linkCode=ll1&tag=biip_092316_best-selling-albums-all-time-20&linkId=c841b88c648abdf3377a4abb54f9009d",
+        "image": "https://images-na.ssl-images-amazon.com/images/I/91l1ejw-SHL._SX425_.jpg",
+        "thumbnail_image": "https://images-na.ssl-images-amazon.com/images/I/91l1ejw-SHL._SX425_.jpg"
+    },
+
+    {
+        "id": 9,
+        "title": "Cracked Rear View",
+        "artiste": "Hootie & The Blowfish",
+        "background": "Cracked Rear View is the debut studio album by Hootie & the Blowfish, released on July 5, 1994 by Atlantic Records.[1] Released to positive critical reviews, it became extremely popular and is currently one of the best-selling albums of all time. Read more: https://en.wikipedia.org/wiki/Cracked_Rear_View",
+        "url": "https://www.amazon.com/Cracked-Rear-View-HOOTIE-BLOWFISH/dp/B001L2CPD6/ref=as_li_ss_tl?ie=UTF8&qid=1474642470&sr=8-1&keywords=Hootie+&+The+Blowfish+%E2%80%94+%22Cracked+Rear+View%22&linkCode=ll1&tag=biip_092316_best-selling-albums-all-time-20&linkId=a9a40ae0a6d4857724922f0c25e07061",
+        "image": "https://m.media-amazon.com/images/I/81Im2OeDEbL._SS500_.jpg",
+        "thumbnail_image": "https://m.media-amazon.com/images/I/81Im2OeDEbL._SS500_.jpg"
+    },
+
+    {
+        "id": 10,
+        "title": "Rumours",
+        "artiste": "Fleetwood Mac",
+        "background": "Rumours is the eleventh studio album by British-American rock band Fleetwood Mac, released on 4 February 1977 by Warner Bros. Records. Largely recorded in California in 1976, it was produced by the band with Ken Caillat and Richard Dashut. Read more: https://en.wikipedia.org/wiki/Rumours_(album)",
+        "url": "https://www.amazon.com/Rumours-Fleetwood-Mac/dp/B00B1MHXY2/ref=as_li_ss_tl?ie=UTF8&qid=1474642674&sr=8-1&keywords=Fleetwood+Mac+%E2%80%94+%22Rumours%22&linkCode=ll1&tag=biip_092316_best-selling-albums-all-time-20&linkId=6afc2563106e7de2e5fe24bd881edd1f",
+        "image": "https://m.media-amazon.com/images/I/819aRTepoJL._SS500_.jpg",
+        "thumbnail_image": "https://m.media-amazon.com/images/I/819aRTepoJL._SS500_.jpg"
+    },
+
+    {
+        "id": 11,
+        "title": "Come On Over",
+        "artiste": "Shania Twain",
+        "background": "Come On Over is the third studio album recorded by Canadian country music singer Shania Twain. It was released on November 4, 1997. It became the all-time best-selling country music album, best-selling studio album by a female act, and best selling album by a Canadian. Read more: https://en.wikipedia.org/wiki/Come_On_Over",
+        "url": "https://www.amazon.com/Come-Over-Shania-Twain/dp/B000001EW3/ref=as_li_ss_tl?ie=UTF8&qid=1474642637&sr=8-2&keywords=Shania+Twain+%E2%80%94+%22Come+On+Over%22&linkCode=ll1&tag=biip_092316_best-selling-albums-all-time-20&linkId=fbc91278cc8beef9128376308cadf5fc",
+        "image": "https://images-na.ssl-images-amazon.com/images/I/61OrWxtR29L._SX425_.jpg",
+        "thumbnail_image": "https://images-na.ssl-images-amazon.com/images/I/61OrWxtR29L._SX425_.jpg"
+    },
+
+    {
+        "id": 12,
+        "title": "The Beatles (The White Album)",
         "artiste": "The Beatles",
-        "url": "link2",
-        "thumbnail_image": "link2 image"
+        "background": "The Beatles, also known as 'The White Album', is the ninth studio album by the English rock band the Beatles, released on 22 November 1968. Read more: https://en.wikipedia.org/wiki/The_Beatles_(album)",
+        "url": "https://www.amazon.com/Beatles-White-Album/dp/B01929IAQK/ref=as_li_ss_tl?ie=UTF8&qid=1474642606&sr=8-1&keywords=The+Beatles+%E2%80%94+%22The+Beatles%22+(%22The+White+Album%22)&linkCode=ll1&tag=biip_092316_best-selling-albums-all-time-20&linkId=6fa72160630ae49bbe876ad831653c8f",
+        "image": "https://m.media-amazon.com/images/I/51rcrWv6MRL._SS500_.jpg",
+        "thumbnail_image": "https://m.media-amazon.com/images/I/51rcrWv6MRL._SS500_.jpg"
+    },
+
+    {
+        "id": 13,
+        "title": "Appetite for Destruction",
+        "artiste": "Guns N' Roses",
+        "background": "Appetite for Destruction is the debut studio album by American hard rock band Guns N' Roses. It was released on July 21, 1987, by Geffen Records. Read more: https://en.wikipedia.org/wiki/Appetite_for_Destruction",
+        "url": "https://www.amazon.com/Appetite-Destruction-Guns-N-Roses/dp/B000V6583C/ref=as_li_ss_tl?ie=UTF8&qid=1474642593&sr=8-1&keywords=Guns+N%27+Roses+%E2%80%94+%22Appetite+for+Destruction%22&linkCode=ll1&tag=biip_092316_best-selling-albums-all-time-20&linkId=442478ad9fb8f64ad6d957337fb5e369",
+        "image": "https://m.media-amazon.com/images/I/71CCwz8pOmL._SS500_.jpg",
+        "thumbnail_image": "https://m.media-amazon.com/images/I/71CCwz8pOmL._SS500_.jpg"
+    },
+
+    {
+        "id": 14,
+        "title": "The Bodyguard (soundtrack)",
+        "artiste": "Whitney Houston",
+        "background": "The Bodyguard: Original Soundtrack Album is a soundtrack album from the film of the same name, released on November 17, 1992, by Arista Records. Read more: https://en.wikipedia.org/wiki/The_Bodyguard_(soundtrack)",
+        "url": "https://www.amazon.com/Bodyguard-Original-Soundtrack-Album/dp/B0040GUIAC/ref=as_li_ss_tl?ie=UTF8&qid=1474642525&sr=8-1&keywords=Whitney+Houston+%E2%80%93+%22The+Bodyguard%22+(Soundtrack)&linkCode=ll1&tag=biip_092316_best-selling-albums-all-time-20&linkId=e48fe23eb3ebd44c5c8834178d3e6d0d",
+        "image": "https://m.media-amazon.com/images/I/81N6a8rZ-oL._SS500_.jpg",
+        "thumbnail_image": ",https://m.media-amazon.com/images/I/81N6a8rZ-oL._SS500_.jp"
+    },
+
+    {
+        "id": 15,
+        "title": "Boston (band)",
+        "artiste": "Boston",
+        "background": "Boston is an American rock band from Boston, Massachusetts, which had its most notable successes during the 1970s and 1980s. Centered on multi-instrumentalist founder and leader Tom Scholz, who played the majority of instruments on the debut album, the band is a staple of classic rock. Read more: https://en.wikipedia.org/wiki/Boston_(band)",
+        "url": "https://www.amazon.com/Boston/dp/B00136JS12/ref=as_li_ss_tl?ie=UTF8&qid=1474642578&sr=8-1&keywords=Boston+%E2%80%94+%22Boston%22&linkCode=ll1&tag=biip_092316_best-selling-albums-all-time-20&linkId=eed66b709e67e2fcd26f7a54c930ee2a",
+        "image": "https://m.media-amazon.com/images/I/81DXffgqJvL._SS500_.jpg",
+        "thumbnail_image": "https://m.media-amazon.com/images/I/81DXffgqJvL._SS500_.jpg"
+    },
+
+    {
+        "id": 16,
+        "title": "Greatest Hits",
+        "artiste": "Elton John",
+        "background": "Greatest Hits (often referred to as Elton John Greatest Hits in North America) is the eleventh official album release for Elton John, and the first compilation. Read more: https://en.wikipedia.org/wiki/Greatest_Hits_(Elton_John_album)",
+        "url": "https://www.amazon.com/Elton-Johns-Greatest-Hits-John/dp/B000VWH0GY/ref=as_li_ss_tl?ie=UTF8&qid=1474642564&sr=8-1&keywords=Elton+John+%E2%80%94+%22Greatest+Hits%22&linkCode=ll1&tag=biip_092316_best-selling-albums-all-time-20&linkId=0031510d193af16011c14bf740c8bfbb",
+        "image": "https://m.media-amazon.com/images/I/814EO3vq+lL._SS500_.jpg",
+        "thumbnail_image": "https://m.media-amazon.com/images/I/814EO3vq+lL._SS500_.jpg"
+    },
+
+    {
+        "id": 17,
+        "title": "No Fences",
+        "artiste": "Garth Brooks",
+        "background": "No Fences is the second studio album by the American country music artist Garth Brooks. It was released on August 27, 1990, and reached #1 on Billboard's Top Country Albums chart. Read more: https://en.wikipedia.org/wiki/No_Fences",
+        "url": "https://www.amazon.com/No-Fences-Garth-Brooks/dp/B00MYMTAIA/ref=as_li_ss_tl?ie=UTF8&qid=1474642551&sr=8-1&keywords=Garth+Brooks+%E2%80%94+%22No+Fences%22&linkCode=ll1&tag=biip_092316_best-selling-albums-all-time-20&linkId=f22b0ed67bc0c302695ba22c963dbb25",
+        "image": "https://upload.wikimedia.org/wikipedia/en/5/5e/Garth_Brooks-No_Fences_%28album_cover%29.jpg",
+        "thumbnail_image": "https://upload.wikimedia.org/wikipedia/en/5/5e/Garth_Brooks-No_Fences_%28album_cover%29.jpg"
+    },
+
+    {
+        "id": 18,
+        "title": "The Blue Album",
+        "artiste": "The Beatles",
+        "background": "1967–1970 (widely known as 'The Blue Album') is a compilation of songs by the English rock band the Beatles, spanning the years indicated in the title. It was released with 1962–1966 '(The Red Album)', in 1973. 1967–1970 made No. 1 on the American Billboard chart and No. 2 on the British Album Chart. Read more: https://en.wikipedia.org/wiki/1967%E2%80%931970",
+        "url": "https://www.amazon.com/Beatles-1967-1970-BEATLES/dp/B01929HVKG/ref=as_li_ss_tl?ie=UTF8&qid=1474642538&sr=8-1&keywords=The+Beatles+%E2%80%94+%22The+Beatles+1967-1970%22&linkCode=ll1&tag=biip_092316_best-selling-albums-all-time-20&linkId=271a7e11ddb3f3343dc5b46cd6611990",
+        "image": "https://m.media-amazon.com/images/I/81YHaywW0HL._SS500_.jpg",
+        "thumbnail_image": "https://m.media-amazon.com/images/I/81YHaywW0HL._SS500_.jpg"
+    },
+
+    {
+        "id": 19,
+        "title": "Jagged Little Pill",
+        "artiste": "Alanis Morissette",
+        "background": "Jagged Little Pill is the third studio album, and international debut, by Canadian singer Alanis Morissette, released on June 13, 1995, through Maverick. Read more: https://en.wikipedia.org/wiki/Jagged_Little_Pill",
+        "url": "https://www.amazon.com/Jagged-Little-Pill-Alanis-Morissette/dp/B001OG3VOQ/ref=as_li_ss_tl?ie=UTF8&qid=1474642511&sr=8-1&keywords=Alanis+Morisette+%E2%80%94+%22Jagged+Little+Pill%22&linkCode=ll1&tag=biip_092316_best-selling-albums-all-time-20&linkId=655cffdb59be403a3e606dde8f4a3f4b",
+        "image": "https://m.media-amazon.com/images/I/81UsU658UVL._SS500_.jpg",
+        "thumbnail_image": "https://m.media-amazon.com/images/I/81UsU658UVL._SS500_.jpg"
+    },
+
+    {
+        "id": 20,
+        "title": "Saturday Night Fever (soundtrack)",
+        "artiste": "Bee Gees",
+        "background": "Saturday Night Fever is the soundtrack album from the 1977 film Saturday Night Fever starring John Travolta. It remains the best-selling soundtrack of all time with over 54 million units sold (double disc album). Read more: https://en.wikipedia.org/wiki/Saturday_Night_Fever_(soundtrack)",
+        "url": "https://www.amazon.com/Saturday-Night-Fever-Bee-Gees/dp/B00122KBV8/ref=as_li_ss_tl?ie=UTF8&qid=1474641733&sr=8-1&keywords=Bee+Gees+%E2%80%94+%22Saturday+Night+Fever%22+(Soundtrack)&linkCode=ll1&tag=biip_092316_best-selling-albums-all-time-20&linkId=024a30a488d40ef4061cc5aa0acf2f81",
+        "image": "https://m.media-amazon.com/images/I/81DJbxqgq2L._SS500_.jpg",
+        "thumbnail_image": "https://m.media-amazon.com/images/I/81DJbxqgq2L._SS500_.jpg"
+    },
+
+    {
+        "id": 21,
+        "title": "Physical Graffiti",
+        "artiste": "Led Zeppelin",
+        "background": "Physical Graffiti is the sixth studio album by the English rock band Led Zeppelin. It was released as a double album on 24 February 1975 by the group's new record label, Swan Song Records. Read more: https://en.wikipedia.org/wiki/Physical_Graffiti",
+        "url": "https://www.amazon.com/Physical-Graffiti-Deluxe-Led-Zeppelin/dp/B0011Z7JRU/ref=as_li_ss_tl?ie=UTF8&qid=1474642454&sr=8-1&keywords=Led+Zeppelin+%E2%80%94+%22Physical+Graffiti%22&linkCode=ll1&tag=biip_092316_best-selling-albums-all-time-20&linkId=03850e4464518862cd5e21c58b153740",
+        "image": "https://m.media-amazon.com/images/I/91owGjPybUL._SS500_.jpg",
+        "thumbnail_image": "https://m.media-amazon.com/images/I/91owGjPybUL._SS500_.jpg"
+    },
+
+    {
+        "id": 22,
+        "title": "Metallica (album)",
+        "artiste": "Metallica",
+        "background": "Metallica (commonly known as The Black Album) is the fifth studio album by American heavy metal band Metallica, released on August 12, 1991, through Elektra Records. Read more: https://en.wikipedia.org/wiki/Metallica_(album)",
+        "url": "https://www.amazon.com/Metallica/dp/B00AH69ZN0/ref=as_li_ss_tl?ie=UTF8&qid=1474641751&sr=8-1&keywords=Metallica+%E2%80%94+%22Metallica%22&linkCode=ll1&tag=biip_092316_best-selling-albums-all-time-20&linkId=6bab5a95b43a34e430b96979235d357b",
+        "image": "https://m.media-amazon.com/images/I/51RN3UGAJ1L._SS500_.jpg",
+        "thumbnail_image": "https://m.media-amazon.com/images/I/51RN3UGAJ1L._SS500_.jpg"
+    },
+
+    {
+        "id": 23,
+        "title": "Legend (Bob Marley and the Wailers album)",
+        "artiste": "Bob Marley and the Wailers",
+        "background": "Legend is a compilation album by Bob Marley and the Wailers. It was released in May 1984 by Island Records. It is a greatest hits collection of singles in its original vinyl format and is the best-selling reggae album of all-time, with over 15 million copies sold in the United States and an estimated 28 million copies sold globally. Read more: https://en.wikipedia.org/wiki/Legend_(Bob_Marley_and_the_Wailers_album)",
+        "url": "https://www.amazon.com/Legend-Vinyl-Bob-Marley-Wailers/dp/B000ZMCVRI/ref=as_li_ss_tl?ie=UTF8&qid=1474641717&sr=8-1&keywords=Bob+Marley+&+The+Wailers+%E2%80%94+%22Legend%22&linkCode=ll1&tag=biip_092316_best-selling-albums-all-time-20&linkId=c593536b0a6a9537a160d5dc2c2b68b6",
+        "image": "https://m.media-amazon.com/images/I/81AAwoUdnfL._SS500_.jpg",
+        "thumbnail_image": "https://m.media-amazon.com/images/I/81AAwoUdnfL._SS500_.jpg"
+    },
+
+    {
+        "id": 24,
+        "title": "Born in the U.S.A.",
+        "artiste": "",
+        "background": "Born in the U.S.A. is the seventh studio album by American rock singer-songwriter Bruce Springsteen. It was released by Columbia Records on June 4, 1984. Read more: https://en.wikipedia.org/wiki/Born_in_the_U.S.A.",
+        "url": "https://www.amazon.com/Born-U-S-Bruce-Springsteen/dp/B00VJ28BM2/ref=as_li_ss_tl?ie=UTF8&qid=1474641271&sr=8-2&keywords=Bruce+Springsteen+%E2%80%94%C2%A0%22Born+In+The+U.S.A.%22&linkCode=ll1&tag=biip_092316_best-selling-albums-all-time-20&linkId=58dff617d1f27e87d88381697c2dcf12",
+        "image": "https://images-na.ssl-images-amazon.com/images/I/71Pt4KOYnzL._SX425_.jpg",
+        "thumbnail_image": "https://images-na.ssl-images-amazon.com/images/I/71Pt4KOYnzL._SX425_.jpg"
+    },
+
+    {
+        "id": 25,
+        "title": "Greatest Hits (Journey album)",
+        "artiste": "Journey",
+        "background": "Greatest Hits is a compilation album by the American rock band Journey, originally released in 1988 by Columbia Records. Read more: https://en.wikipedia.org/wiki/Greatest_Hits_(Journey_album)",
+        "url": "https://www.amazon.com/Greatest-Hits-Journey/dp/B00138H45W/ref=as_li_ss_tl?ie=UTF8&qid=1474641257&sr=8-1&keywords=Journey+%E2%80%94+%22Greatest+Hits%22&linkCode=ll1&tag=biip_092316_best-selling-albums-all-time-20&linkId=7785285f6a263fd5a9256de71168fcc1",
+        "image": "https://m.media-amazon.com/images/I/716na53z4gL._SS500_.jpg",
+        "thumbnail_image": "https://m.media-amazon.com/images/I/716na53z4gL._SS500_.jpg"
+    },
+
+    {
+        "id": 26,
+        "title": "Dark Side of the Moon",
+        "artiste": " Pink Floyd",
+        "background": "The Dark Side of the Moon is the eighth studio album by English rock band Pink Floyd, released on 1 March 1973 by Harvest Records. Read more: https://en.wikipedia.org/wiki/The_Dark_Side_of_the_Moon",
+        "url": "https://www.amazon.com/Dark-Side-Moon-Pink-Floyd/dp/B000002U82",
+        "image": "https://m.media-amazon.com/images/I/61PEh3IyaeL._SS500_.jpg ",
+        "thumbnail_image": "https://m.media-amazon.com/images/I/61PEh3IyaeL._SS500_.jpg"
+    },
+
+    {
+        "id": 27,
+        "title": "Supernatural (Santana album)",
+        "artiste": "Santana",
+        "background": "Supernatural is the eighteenth studio album by Latin rock band Santana, released on June 15, 1999 on Arista Records. After the group found themselves without a label in the mid-1990s, founding member and guitarist Carlos Santana began talks with Arista president Clive Davis, who first signed the group in 1969, which led to a new record deal. Read more: https://en.wikipedia.org/wiki/Supernatural_(Santana_album)",
+        "url": "https://www.amazon.com/Supernatural-Santana/dp/B0037DGH4A/ref=as_li_ss_tl?ie=UTF8&qid=1474641228&sr=8-1&keywords=Santana+%E2%80%94+%22Supernatural%22&linkCode=ll1&tag=biip_092316_best-selling-albums-all-time-20&linkId=eae8c87d71a0136abb8a3ebd1ec019ef",
+        "image": "https://m.media-amazon.com/images/I/81v1sSM5kvL._SS500_.jpg",
+        "thumbnail_image": "https://m.media-amazon.com/images/I/81v1sSM5kvL._SS500_.jpg"
+    },
+
+    {
+        "id": 28,
+        "title": "1962–1966",
+        "artiste": "The Beatles",
+        "background": "1962–1966 (also known as 'The Red Album') is a compilation album by the English rock band the Beatles, spanning the years indicated in the title. Read more: https://en.wikipedia.org/wiki/1962%E2%80%931966",
+        "url": "https://www.amazon.com/Beatles-1962-1966-BEATLES/dp/B01929HOVM/ref=as_li_ss_tl?ie=UTF8&qid=1474641213&sr=8-1&keywords=The+Beatles+%E2%80%94%C2%A0%22The+Beatles+1962-1966%22&linkCode=ll1&tag=biip_092316_best-selling-albums-all-time-20&linkId=00a0c0d9c213581f6260dea470d25f69",
+        "image": "https://m.media-amazon.com/images/I/81I2WhDDtoL._SS500_.jpg",
+        "thumbnail_image": "https://m.media-amazon.com/images/I/81I2WhDDtoL._SS500_.jpg"
+    },
+
+    {
+        "id": 29,
+        "title": "21 (Adele album)",
+        "artiste": "Adele",
+        "background": "21 is the second studio album by English singer-songwriter Adele. It was released on 24 January 2011[1] in Europe and on 22 February 2011 in North America by XL Recordings and Columbia Records. Read more: https://en.wikipedia.org/wiki/21_(Adele_album)",
+        "url": "https://www.amazon.com/21-Adele/dp/B004EBT5CU",
+        "image": "https://images-na.ssl-images-amazon.com/images/I/71Ln3JLWyOL._SX425_.jpg",
+        "thumbnail_image": "https://images-na.ssl-images-amazon.com/images/I/71Ln3JLWyOL._SX425_.jpg"
+    },
+
+    {
+        "id": 30,
+        "title": "Backstreet Boys 'Backstreet Boys'",
+        "artiste": " Backstreet Boys",
+        "background": "Backstreet Boys is the debut U.S. studio album by the vocal-pop group Backstreet Boys. The release of this album coincided with the release of their second international album Backstreet's Back. Read more: https://en.wikipedia.org/wiki/Backstreet_Boys_(1997_album)",
+        "url": "https://www.amazon.com/Backstreet-Boys/dp/B00138H6EG/ref=as_li_ss_tl?ie=UTF8&qid=1474641198&sr=8-1&keywords=Backstreet+Boys+%E2%80%94+%22Backstreet+Boys%22&linkCode=ll1&tag=biip_092316_best-selling-albums-all-time-20&linkId=db2ef4a2e85ff3ba66d5162a19cc4b61",
+        "image": "https://m.media-amazon.com/images/I/71105SZuohL._SS500_.jpg",
+        "thumbnail_image": "https://m.media-amazon.com/images/I/71105SZuohL._SS500_.jpg"
+    },
+
+    {
+        "id": 31,
+        "title": "...Baby One More Time",
+        "artiste": "Britney Spears",
+        "background": "...Baby One More Time is the debut studio album by American singer Britney Spears. It was released on January 12, 1999 through Jive Records. In June 1997, while Spears negotiated with her manager at the time. Read more: https://en.wikipedia.org/wiki/...Baby_One_More_Time_(album)",
+        "url": "https://www.amazon.com/Baby-More-Time-Britney-Spears/dp/B00138H4GQ/ref=as_li_ss_tl?ie=UTF8&qid=1474641185&sr=8-1&keywords=Britney+Spears+%E2%80%94+%22...Baby+One+More+Time%22&linkCode=ll1&tag=biip_092316_best-selling-albums-all-time-20&linkId=9bf14cb287057b64e7efb4992c92f4ab",
+        "image": "https://m.media-amazon.com/images/I/911PUvdHteL._SS500_.jpg",
+        "thumbnail_image": "https://m.media-amazon.com/images/I/911PUvdHteL._SS500_.jpg"
+    },
+
+    {
+        "id": 32,
+        "title": "'Ropin' The Wind",
+        "artiste": "Garth Brooks",
+        "background": "Ropin' the Wind is the third studio album by American country music artist Garth Brooks. It was released on September 2, 1991 and was his first studio album to debut at No. 1 the Billboard 200 chart and the Top Country Albums chart. Read more: https://en.wikipedia.org/wiki/Ropin%27_the_Wind",
+        "url": "https://www.amazon.com/Ropin-Wind-Garth-Brooks/dp/B000EN0TIG/ref=as_li_ss_tl?ie=UTF8&qid=1474641156&sr=8-1&keywords=Garth+Brooks+%E2%80%94+%22Ropin%27+The+Wind%22&linkCode=ll1&tag=biip_092316_best-selling-albums-all-time-20&linkId=08e46e48691b61fb5a8447487991e962",
+        "image": "https://images-na.ssl-images-amazon.com/images/I/51hBxhDQA8L._SX425_.jpg",
+        "thumbnail_image": "https://images-na.ssl-images-amazon.com/images/I/51hBxhDQA8L._SX425_.jpg"
+    },
+
+    {
+        "id": 33,
+        "title": "Bat Out of Hell",
+        "artiste": "Meat Loaf",
+        "background": "Bat Out of Hell is the debut studio album by American rock singer Meat Loaf, as well as his first collaboration with composer Jim Steinman and producer Todd Rundgren. Read more: https://en.wikipedia.org/wiki/Bat_Out_of_Hell",
+        "url": "https://www.amazon.com/Bat-out-Hell-Meat-Loaf/dp/B01G841GNQ/ref=as_li_ss_tl?ie=UTF8&qid=1474641143&sr=8-1&keywords=Meat+Loaf+%E2%80%94+%22Bat+Out+of+Hell%22&linkCode=ll1&tag=biip_092316_best-selling-albums-all-time-20&linkId=06b872fea5d7c87a3fcc40d15466112b",
+        "image": "https://m.media-amazon.com/images/I/71iVyIRluDL._SS500_.jpg",
+        "thumbnail_image": "https://m.media-amazon.com/images/I/71iVyIRluDL._SS500_.jpg"
+    },
+
+    {
+        "id": 34,
+        "title": "Simon & Garfunkel's Greatest Hits",
+        "artiste": "Simon & Garfunkel",
+        "background": "The album was a mix of original studio recordings and four previously unreleased live recordings. The album's minimalist packaging does not specifically date the latter; however, the live versions of For Emily, Whenever I May Find Her and 'Kathy's Song' included on Greatest Hits were also included on the 2008 album Live 1969. Read more: https://en.wikipedia.org/wiki/Simon_and_Garfunkel%27s_Greatest_Hits",
+        "url": "https://www.amazon.com/Simon-Garfunkels-Greatest-Hits-Garfunkel/dp/B00270WH3Y/ref=as_li_ss_tl?ie=UTF8&qid=1474641122&sr=8-2&keywords=Simon+&+Garfunkel+%E2%80%94%C2%A0%22Simon+&+Garfunkel%27s+Greatest+Hits%22&linkCode=ll1&tag=biip_092316_best-selling-albums-all-time-20&linkId=0af39b93da7e26912f481a0626a9f9a5",
+        "image": "https://m.media-amazon.com/images/I/81ZvHIVd+0L._SS500_.jpg",
+        "thumbnail_image": "https://m.media-amazon.com/images/I/81ZvHIVd+0L._SS500_.jpg"
+    },
+
+    {
+        "id": 35,
+        "title": "Greatest Hits 1974-1978",
+        "artiste": "Steve Miller Band",
+        "background": "The album features the title track from 1973's The Joker plus 13 tracks taken from Fly Like an Eagle (1976) and Book of Dreams (1977). As a sign of the album-oriented rock times, all but one track came from their last two albums even though they had eleven studio albums at the time. Read more: https://en.wikipedia.org/wiki/Greatest_Hits_1974%E2%80%9378",
+        "url": "https://www.amazon.com/Greatest-Hits-1974-78-Steve-Miller/dp/B000002U98/ref=as_li_ss_tl?ie=UTF8&qid=1474640648&sr=8-1&keywords=steve+miller+band+greatest+hits&linkCode=ll1&tag=biip_092316_best-selling-albums-all-time-20&linkId=f0a149f38ca8601e2fed528fb6120baa",
+        "image": "https://images-na.ssl-images-amazon.com/images/I/512rMQGqUdL._SX425_.jpg",
+        "thumbnail_image": "https://images-na.ssl-images-amazon.com/images/I/512rMQGqUdL._SX425_.jpg"
+    },
+
+    {
+        "id": 36,
+        "title": "Millennium",
+        "artiste": "Backstreet Boys",
+        "background": "Millennium is the third studio album (second in the US) by American vocal pop group, the Backstreet Boys, released on May 18, 1999 by Jive Records. It was a highly anticipated follow-up to both their US debut album, and their second internationally released album. Read more: https://en.wikipedia.org/wiki/Millennium_(Backstreet_Boys_album)",
+        "url": "https://www.amazon.com/Millennium-Backstreet-Boys/dp/B00136Q5UY/ref=as_li_ss_tl?ie=UTF8&qid=1474641107&sr=8-1&keywords=Backstreet+Boys+%E2%80%94+%22Millennium%22&linkCode=ll1&tag=biip_092316_best-selling-albums-all-time-20&linkId=f856b4d740817a6c30927ccf02dd4f5f",
+        "image": "https://m.media-amazon.com/images/I/713X--AI5QL._SS500_.jpg",
+        "thumbnail_image": "https://m.media-amazon.com/images/I/713X--AI5QL._SS500_.jpg"
+    },
+
+    {
+        "id": 37,
+        "title": "Live 1975-'85",
+        "artiste": "Bruce Springsteen",
+        "background": "Live/1975–85 is a live album by Bruce Springsteen & the E Street Band. It consists of 40 tracks recorded at various concerts between 1975 and 1985, released as a box set by Columbia Records on November 10, 1986. Read more: https://en.wikipedia.org/wiki/Live_1975%E2%80%9385",
+        "url": "https://www.amazon.com/Live-Bruce-Springsteen-Street-Band/dp/B000002AJO/ref=sr_1_1?keywords=Bruce+Springsteen+live+1975-85&qid=1572883442&sr=8-1",
+        "image": "https://images-na.ssl-images-amazon.com/images/I/712jaTSy3xL._SX425_.jpg",
+        "thumbnail_image": "https://images-na.ssl-images-amazon.com/images/I/712jaTSy3xL._SX425_.jpg"
+    },
+
+    {
+        "id": 38,
+        "title": "Ten",
+        "artiste": " Pearl Jam",
+        "background": "Ten is the debut studio album by American rock band Pearl Jam, released on August 27, 1991, through Epic Records. Following the disbanding of bassist Jeff Ament and guitarist Stone Gossard's previous group Mother Love Bone, the two recruited vocalist Eddie Vedder, guitarist Mike McCready, and drummer Dave Krusen to form Pearl Jam in 1990. Read more: https://en.wikipedia.org/wiki/Ten_(Pearl_Jam_album)",
+        "url": "https://www.amazon.com/Ten-Pearl-Jam/dp/B00A46H3J6/ref=as_li_ss_tl?ie=UTF8&qid=1474641069&sr=8-1&keywords=Pearl+Jam+%E2%80%94+%22Ten%22&linkCode=ll1&tag=biip_092316_best-selling-albums-all-time-20&linkId=748fa2dde7717e8593d85556f8e08ff0",
+        "image": "https://m.media-amazon.com/images/I/818Vo4rKTNL._SS500_.jpg",
+        "thumbnail_image": "https://m.media-amazon.com/images/I/818Vo4rKTNL._SS500_.jpg"
+    },
+
+    {
+        "id": 39,
+        "title": "Purple Rain",
+        "artiste": "Prince & The Revolution",
+        "background": "Purple Rain is the sixth studio album by American singer, songwriter, producer, and musician Prince, released on June 25 1984 by Warner Bros. Records. It is the first to feature the billing of his band the Revolution,[4] and is the soundtrack to the 1984 film of the same name. Read more: https://en.wikipedia.org/wiki/Purple_Rain_(album)",
+        "url": "https://www.amazon.com/Purple-Rain-180-Gram-Vinyl/dp/B0011Z51QG/ref=as_li_ss_tl?ie=UTF8&qid=1474641054&sr=8-2&keywords=Prince+&+The+Revolution+%E2%80%94+%22Purple+Rain%22&linkCode=ll1&tag=biip_092316_best-selling-albums-all-time-20&linkId=a3302b182322a3c7d9f3eda886c2f825",
+        "image": "https://m.media-amazon.com/images/I/81CzfbO4CrL._SS500_.jpg",
+        "thumbnail_image": "https://m.media-amazon.com/images/I/81CzfbO4CrL._SS500_.jpg"
+    },
+
+    {
+        "id": 40,
+        "title": "Whitney Houston",
+        "artiste": " Whitney Houston",
+        "background": "Whitney Houston is the debut studio album by American contemporary R&B and pop singer Whitney Houston. It was released on February 14, 1985, by Arista Records. The album initially had a slow commercial response, but began getting more popular in the summer of 1985. Read more: https://en.wikipedia.org/wiki/Whitney_Houston_(album)",
+        "url": "https://www.amazon.com/Whitney-Houston/dp/B00136JRZY/ref=as_li_ss_tl?ie=UTF8&qid=1474640612&sr=8-2&keywords=Whitney+Houston+%E2%80%94+%22Whitney+Houston%22&linkCode=ll1&tag=biip_092316_best-selling-albums-all-time-20&linkId=69e4443243423ca29d317d3f1a8df58c",
+        "image": "https://m.media-amazon.com/images/I/91-UtKUfzbL._SS500_.jpg",
+        "thumbnail_image": "https://m.media-amazon.com/images/I/91-UtKUfzbL._SS500_.jpg"
+    },
+
+    {
+        "id": 41,
+        "title": "Slippery When Wet",
+        "artiste": "Bon Jovi",
+        "background": "Slippery When Wet is the third studio album by American rock band Bon Jovi. It was released on August 18, 1986 by Mercury Records in North America and Vertigo Records internationally. Read more: https://en.wikipedia.org/wiki/Slippery_When_Wet",
+        "url": "https://www.amazon.com/Slippery-When-Wet-Remastered-Jovi/dp/B000V6984M/ref=as_li_ss_tl?ie=UTF8&qid=1474640592&sr=8-1&keywords=Bon+Jovi+%E2%80%94+%22Slippery+When+Wet%22&linkCode=ll1&tag=biip_092316_best-selling-albums-all-time-20&linkId=93b1f08ed73facb221d2706d595116f8",
+        "image": "https://m.media-amazon.com/images/I/91r8kcvhPDL._SS500_.jpg",
+        "thumbnail_image": "https://m.media-amazon.com/images/I/91r8kcvhPDL._SS500_.jpg"
+    },
+
+    {
+        "id": 42,
+        "title": "II",
+        "artiste": "Boyz II Men",
+        "background": "II is the third studio album and second non-Christmas album (hence the title) by American R&B quartet Boyz II Men, released on August 30, 1994 on Motown Records.[1] It contained the No. 1 singles 'I 'll Make Love to You' and 'On Bended Knee', the latter of which replaced the former at the top of the Billboard Hot 100. Read more: https://en.wikipedia.org/wiki/II_(Boyz_II_Men_album)",
+        "url": "https://www.amazon.com/II-2-LP-Boyz-Men/dp/B000WKT6B2/ref=as_li_ss_tl?ie=UTF8&qid=1474640574&sr=8-1&keywords=Boyz+II+Men+%E2%80%94%C2%A0%22II%22&linkCode=ll1&tag=biip_092316_best-selling-albums-all-time-20&linkId=a316c3ba9d89ffce51d0001006afc106",
+        "image": "https://m.media-amazon.com/images/I/71R0swDjOrL._SS500_.jpg",
+        "thumbnail_image": "https://m.media-amazon.com/images/I/71R0swDjOrL._SS500_.jpg"
+    },
+
+    {
+        "id": 43,
+        "title": "Hysteria",
+        "artiste": "Def Leppard",
+        "background": "Hysteria is the fourth studio album by English hard rock band Def Leppard, released on 3 August 1987 through Mercury Records and reissued on 1 January 2000. Read more: https://en.wikipedia.org/wiki/Hysteria_(Def_Leppard_album)",
+        "url": "https://www.amazon.com/gp/offer-listing/B000001FKY/ref=as_li_ss_tl?ie=UTF8&qid=1474640510&sr=8-1&keywords=Def+Leppard+%E2%80%94+%22Hysteria%22&linkCode=ll2&tag=biip_092316_best-selling-albums-all-time-20&linkId=4f885caf9d1f5253ca334235228d0178",
+        "image": "https://images-na.ssl-images-amazon.com/images/I/614gHxSlEJL._SS160_.jpg",
+        "thumbnail_image": "https://images-na.ssl-images-amazon.com/images/I/614gHxSlEJL._SS160_.jpg"
+    },
+
+    {
+        "id": 44,
+        "title": "Wide Open Spaces",
+        "artiste": "Dixie Chicks",
+        "background": "Wide Open Spaces is the fourth studio album and the major label debut of American country music band, the Dixie Chicks. It was their first record with new lead vocalist Natalie Maines, and became their breakthrough commercial success. Read more: https://en.wikipedia.org/wiki/Wide_Open_Spaces",
+        "url": "https://www.amazon.com/Wide-Open-Spaces-Dixie-Chicks/dp/B00136LU5E/ref=as_li_ss_tl?ie=UTF8&qid=1474640494&sr=8-1&keywords=Dixie+Chicks+%E2%80%94+%22Wide+Open+Spaces%22&linkCode=ll1&tag=biip_092316_best-selling-albums-all-time-20&linkId=f520e0a40f2829e6dcaa8950d0635368",
+        "image": "https://m.media-amazon.com/images/I/71-kQbgdQ6L._SS500_.jpg",
+        "thumbnail_image": "https://m.media-amazon.com/images/I/71-kQbgdQ6L._SS500_.jpg"
+    },
+
+    {
+        "id": 45,
+        "title": "Pieces of You",
+        "artiste": "Jewel",
+        "background": "Pieces of You is the debut studio album by American singer-songwriter Jewel, released on February 28, 1995 by Atlantic Records. It was produced by Ben Keith, who has also produced works for artists such as Neil Young and Patsy Cline. Read more: https://en.wikipedia.org/wiki/Pieces_of_You",
+        "url": "https://www.amazon.com/Pieces-You-Jewel/dp/B00316TUE2/ref=as_li_ss_tl?ie=UTF8&qid=1474640480&sr=8-1&keywords=Jewel+%E2%80%94+%22Pieces+of+You%22&linkCode=ll1&tag=biip_092316_best-selling-albums-all-time-20&linkId=32d0545919a1a8edf1d4364722cb4d7d",
+        "image": "https://m.media-amazon.com/images/I/71aZ2-HgLmL._SS500_.jpg",
+        "thumbnail_image": "https://m.media-amazon.com/images/I/71aZ2-HgLmL._SS500_.jpg"
+    },
+
+    {
+        "id": 46,
+        "title": "Breathless",
+        "artiste": "Kenny G",
+        "background": "Breathless is the sixth studio album by American saxophonist Kenny G, released in 1992 on Arista Records. It reached number 1 on the Contemporary Jazz Albums chart and number 2 on the Billboard 200 and R&B/Hip-Hop Albums charts. Read more: https://en.wikipedia.org/wiki/Breathless_(Kenny_G_album)",
+        "url": "https://www.amazon.com/Breathless-Kenny-G/dp/B00136RW8I/ref=as_li_ss_tl?ie=UTF8&qid=1474640463&sr=8-1&keywords=Kenny+G+%E2%80%94+%22Breathless%22&linkCode=ll1&tag=biip_092316_best-selling-albums-all-time-20&linkId=b9661582e2b89c23eef2b28ff48e3734",
+        "image": "https://m.media-amazon.com/images/I/71bzAqKeIML._SS500_.jpg",
+        "thumbnail_image": "https://m.media-amazon.com/images/I/71bzAqKeIML._SS500_.jpg"
+    },
+
+    {
+        "id": 47,
+        "title": "Greatest Hits (1980 Kenny Rogers album)",
+        "artiste": "Kenny Rogers",
+        "background": "Greatest Hits (sometimes referred to as Kenny Rogers' Greatest Hits) is the second compilation album by country music superstar Kenny Rogers. It was released in September 1980 and issued by Liberty Records. Read more: https://en.wikipedia.org/wiki/Greatest_Hits_(1980_Kenny_Rogers_album)",
+        "url": "https://www.amazon.com/Greatest-Hits-Vinyl-Kenny-Rogers/dp/B000002U86/ref=as_li_ss_tl?ie=UTF8&qid=1474640445&sr=8-1&keywords=Kenny+Rogers+%E2%80%94+%22Kenny+Rogers%27+Greatest+Hits%22&linkCode=ll1&tag=biip_092316_best-selling-albums-all-time-20&linkId=50f682077ad115b69d9bd622c22d75f2",
+        "image": "https://images-na.ssl-images-amazon.com/images/I/51mcEpN8kLL._SX425_.jpg",
+        "thumbnail_image": "https://images-na.ssl-images-amazon.com/images/I/51mcEpN8kLL._SX425_.jpg"
+    },
+
+    {
+        "id": 48,
+        "title": "Led Zeppelin II",
+        "artiste": "Led Zeppelin",
+        "background": "Led Zeppelin II is the second album by the English rock band Led Zeppelin, released on 22 October 1969 in the United States and on 31 October 1969 in the United Kingdom by Atlantic Records. Read more: https://en.wikipedia.org/wiki/Led_Zeppelin_II",
+        "url": "https://www.amazon.com/Led-Zeppelin-II-Deluxe-CD/dp/B00IXHBS6M/ref=as_li_ss_tl?ie=UTF8&qid=1474640429&sr=8-1&keywords=Led+Zeppelin+%E2%80%94%C2%A0%22Led+Zeppelin+II%22&linkCode=ll1&tag=biip_092316_best-selling-albums-all-time-20&linkId=9d89f1a7b06d4bab4395d75547aed609",
+        "image": "https://images-na.ssl-images-amazon.com/images/I/71mKCivU38L._SX425_.jpg",
+        "thumbnail_image": "https://images-na.ssl-images-amazon.com/images/I/71mKCivU38L._SX425_.jpg"
+    },
+
+    {
+        "id": 49,
+        "title": "Yourself or Someone Like You",
+        "artiste": " Matchbox Twenty",
+        "background": "Yourself or Someone Like You is the debut studio album by American rock band Matchbox 20, released in 1996. The album features a sound similar to traditional rock sound and post-grunge. Read more: https://en.wikipedia.org/wiki/Yourself_or_Someone_Like_You",
+        "url": "https://www.amazon.com/Yourself-Someone-Like-Matchbox-Twenty/dp/B00122X26Y/ref=as_li_ss_tl?ie=UTF8&qid=1474640393&sr=8-1&keywords=Matchbox+Twenty+%E2%80%94+%22Yourself+or+Someone+Like+You%22&linkCode=ll1&tag=biip_092316_best-selling-albums-all-time-20&linkId=9a60699580c0c32bde7ec5dcdc9543aa",
+        "image": "https://m.media-amazon.com/images/I/71aqern8ZsL._SS500_.jpg",
+        "thumbnail_image": "https://m.media-amazon.com/images/I/71aqern8ZsL._SS500_.jpg"
+    },
+
+    {
+        "id": 50,
+        "title": "No Jacket Required",
+        "artiste": "Phil Collins",
+        "background": "No Jacket Required is the third solo studio album by English drummer and singer-songwriter Phil Collins. It was originally released on 18 February 1985[1] on Virgin (UK and Ireland), Atlantic (US and Canada), and WEA (rest of the world). Read more: https://en.wikipedia.org/wiki/No_Jacket_Required",
+        "url": "https://www.amazon.com/Phil-Collins-No-Jacket-Required/dp/B004EC1PPY/ref=as_li_ss_tl?ie=UTF8&qid=1474640349&sr=8-2&keywords=Phil+Collins+%E2%80%94+%22No+Jacket+Required%22&linkCode=ll1&tag=biip_092316_best-selling-albums-all-time-20&linkId=96505507eb1fed4e0b490c3683c72dad",
+        "image": "https://images-na.ssl-images-amazon.com/images/I/91IkApZzYaL._SX522_.jpg",
+        "thumbnail_image": "https://images-na.ssl-images-amazon.com/images/I/91IkApZzYaL._SX522_.jpg"
     }
 ]
